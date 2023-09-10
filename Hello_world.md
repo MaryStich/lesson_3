@@ -1,3 +1,6 @@
 ## Hello world!
 
-How it's going
+How it's going?
+
+Learning Git. Have lesson 3.
+
